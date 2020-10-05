@@ -2,3 +2,4 @@ This is a sample file
 Some more text goes here.
 Adding text directly from GitHub
 More testing text
+Added text from VS Code
