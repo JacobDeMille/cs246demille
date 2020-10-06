@@ -7,3 +7,4 @@ HEAD
 VS Code merge conflict
 =======
 
+Hello Team
